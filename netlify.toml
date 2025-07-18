@@ -4,7 +4,7 @@
   
 [build.environment]
   HUGO_VERSION = "0.87.0"
-  HUGO_BASEURL = "/"
+  HUGO_BASEURL = "https://charming-pothos-8adc76.netlify.app/"
 
 [[headers]]
   for = "/*" # This defines which paths this specific [[headers]] block will cover.
